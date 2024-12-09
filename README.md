@@ -10,6 +10,11 @@ For detailed instructions, code, and explanation, visit the [blog post](https://
 - Analyzes beep duration to reduce false positives.
 - Sends real-time notifications using the Pushover API.
 
+
+## Acknowledgement
+
+Code to perform FFT (`ApproxFFT.ino`) is from [Instructables](https://www.instructables.com/ApproxFFT-Fastest-FFT-Function-for-Arduino/), https://www.instructables.com/ApproxFFT-Fastest-FFT-Function-for-Arduino/, by abhilash_patel
+
 ## References
 
 - Example of detecting sounds and sending notifications: [マイコン技術Navi: 【ESP32】特定の音が鳴ったらLINEで通知する（ご飯よ〜！を家族全員にお知らせシステム）](https://www.ekit-tech.com/?p=3575)
